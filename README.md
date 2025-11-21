@@ -14,9 +14,6 @@ Organize your sound. Tag it like you mean it.
 - Designed for unreleased tracks, leaks, DJ sets, SoundCloud rips, etc.
 
 
-# 🎵 Music Metadata Editor
-
-A simple, user-friendly Python application to edit music file metadata (ID3 tags) including artist, title, album, and album artwork.
 
 ## ✨ Features
 
@@ -72,7 +69,7 @@ Download `tagtune.py` to your computer.
 ## 🎯 Example Usage
 
 ```
-🎵 Music Metadata Editor
+🎵 Tag Tune
 ========================================
 
 📁 Step 1: Select Audio File
